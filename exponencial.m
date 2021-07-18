@@ -1,0 +1,3 @@
+function y = exponencial()
+    
+end
